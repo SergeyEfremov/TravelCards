@@ -1,0 +1,16 @@
+C:\Projects\TravalCards\itog\solution\TravelCards\TestTravelCards\bin\Debug\TestTravelCards.dll
+C:\Projects\TravalCards\itog\solution\TravelCards\TestTravelCards\bin\Debug\TestTravelCards.pdb
+C:\Projects\TravalCards\itog\solution\TravelCards\TestTravelCards\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\TravalCards\itog\solution\TravelCards\TestTravelCards\bin\Debug\TravelCards.dll
+C:\Projects\TravalCards\itog\solution\TravelCards\TestTravelCards\bin\Debug\TravelCards.pdb
+C:\Projects\TravalCards\itog\solution\TravelCards\TestTravelCards\obj\Debug\TestTravelCards.csprojResolveAssemblyReference.cache
+C:\Projects\TravalCards\itog\solution\TravelCards\TestTravelCards\obj\Debug\TestTravelCards.dll
+C:\Projects\TravalCards\itog\solution\TravelCards\TestTravelCards\obj\Debug\TestTravelCards.pdb
+C:\WORK\TravelCards\Exam\solution\TravelCards\TestTravelCards\bin\Debug\TestTravelCards.dll
+C:\WORK\TravelCards\Exam\solution\TravelCards\TestTravelCards\bin\Debug\TestTravelCards.pdb
+C:\WORK\TravelCards\Exam\solution\TravelCards\TestTravelCards\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\WORK\TravelCards\Exam\solution\TravelCards\TestTravelCards\bin\Debug\TravelCards.dll
+C:\WORK\TravelCards\Exam\solution\TravelCards\TestTravelCards\bin\Debug\TravelCards.pdb
+C:\WORK\TravelCards\Exam\solution\TravelCards\TestTravelCards\obj\Debug\TestTravelCards.csprojResolveAssemblyReference.cache
+C:\WORK\TravelCards\Exam\solution\TravelCards\TestTravelCards\obj\Debug\TestTravelCards.dll
+C:\WORK\TravelCards\Exam\solution\TravelCards\TestTravelCards\obj\Debug\TestTravelCards.pdb

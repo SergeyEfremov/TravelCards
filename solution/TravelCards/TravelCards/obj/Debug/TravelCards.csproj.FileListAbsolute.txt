@@ -1,0 +1,10 @@
+C:\Projects\TravalCards\itog\solution\TravelCards\TravelCards\bin\Debug\TravelCards.dll
+C:\Projects\TravalCards\itog\solution\TravelCards\TravelCards\bin\Debug\TravelCards.pdb
+C:\Projects\TravalCards\itog\solution\TravelCards\TravelCards\obj\Debug\TravelCards.csprojResolveAssemblyReference.cache
+C:\Projects\TravalCards\itog\solution\TravelCards\TravelCards\obj\Debug\TravelCards.dll
+C:\Projects\TravalCards\itog\solution\TravelCards\TravelCards\obj\Debug\TravelCards.pdb
+C:\WORK\TravelCards\Exam\solution\TravelCards\TravelCards\bin\Debug\TravelCards.dll
+C:\WORK\TravelCards\Exam\solution\TravelCards\TravelCards\bin\Debug\TravelCards.pdb
+C:\WORK\TravelCards\Exam\solution\TravelCards\TravelCards\obj\Debug\TravelCards.csprojResolveAssemblyReference.cache
+C:\WORK\TravelCards\Exam\solution\TravelCards\TravelCards\obj\Debug\TravelCards.dll
+C:\WORK\TravelCards\Exam\solution\TravelCards\TravelCards\obj\Debug\TravelCards.pdb
