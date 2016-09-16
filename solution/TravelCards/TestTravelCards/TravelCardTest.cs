@@ -8,6 +8,7 @@ namespace TestTravelCards
     public class TravelCardTest
     {
         [TestMethod]
+        //Проверить, что решение подходит под пример из письма
         public void Way_FromCardsFromLetter_ShouldBeCorrect()
         {//arrange
             TravelPath tPath = new TravelPath();

@@ -8,3 +8,8 @@ C:\WORK\TravelCards\Exam\solution\TravelCards\TravelCards\bin\Debug\TravelCards.
 C:\WORK\TravelCards\Exam\solution\TravelCards\TravelCards\obj\Debug\TravelCards.csprojResolveAssemblyReference.cache
 C:\WORK\TravelCards\Exam\solution\TravelCards\TravelCards\obj\Debug\TravelCards.dll
 C:\WORK\TravelCards\Exam\solution\TravelCards\TravelCards\obj\Debug\TravelCards.pdb
+C:\WORK\Exam\TravelCards\solution\TravelCards\TravelCards\bin\Debug\TravelCards.dll
+C:\WORK\Exam\TravelCards\solution\TravelCards\TravelCards\bin\Debug\TravelCards.pdb
+C:\WORK\Exam\TravelCards\solution\TravelCards\TravelCards\obj\Debug\TravelCards.csprojResolveAssemblyReference.cache
+C:\WORK\Exam\TravelCards\solution\TravelCards\TravelCards\obj\Debug\TravelCards.dll
+C:\WORK\Exam\TravelCards\solution\TravelCards\TravelCards\obj\Debug\TravelCards.pdb
